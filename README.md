@@ -6,10 +6,14 @@ A multicharacter system built for [qbx_core](https://github.com/Qbox-project/qbx
 
 # Dependencies
 
-[qbx_core](https://github.com/Qbox-project/qbx_core)
+* [qbx_core](https://github.com/Qbox-project/qbx_core)
 
-[oxmysql](https://github.com/overextended/oxmysql)
+* [oxmysql](https://github.com/overextended/oxmysql)
 
-[ox_lib](https://github.com/overextended/ox_lib)
+* [ox_lib](https://github.com/overextended/ox_lib)
 
-[ox_inventory](https://github.com/overextended/ox_inventory)
+* [ox_inventory](https://github.com/overextended/ox_inventory)
+  
+# Original Script
+
+* https://github.com/BubbleDK/bub-multichar  
