@@ -1,3 +1,7 @@
+<img width="1918" height="1009" alt="image" src="https://github.com/user-attachments/assets/8e9cf1a0-ff55-4d1c-ad8c-872532bdbf70" />
+
+
+
 # bub-multichar
 
 bub-multichar qbx-spawn Working
